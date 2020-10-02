@@ -1,4 +1,4 @@
-num = 16
+input(int(num))
 
 if num < 0:
    print("Enter a positive number")
